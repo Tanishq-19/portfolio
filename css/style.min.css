@@ -27,7 +27,7 @@ h6,
 
 .container p span.typed-text {
   font-weight: normal;
-  color: #dd7732;
+  color: #13c0e5/*#dd7732;*/
 }
 .container p span.cursor {
   display: inline-block;
