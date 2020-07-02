@@ -26,7 +26,7 @@ h6,
   margin-top: 0; }
 
 .container p span.typed-text {
-  font-weight: normal;
+  font-weight: bold;
   color: #13c0e5;/*#dd7732;*/
   /*text-align: center; */
 }
